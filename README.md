@@ -16,3 +16,5 @@ Term 1 (2021-2022).
 1. Code::Blocks software. [See website](http://www.codeblocks.org/)
 2. Microsoft Visual Studio C++ software.
 3. Wecode online judge system for submitting practical exercises. [See WeCode](http://cs.uit.edu.vn/wecode/)
+
+**Notice**: Please be aware that some links provided in this document may no longer be active or functional. Internet content can change over time, and we recommend verifying information through alternative sources if needed.
