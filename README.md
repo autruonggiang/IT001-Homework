@@ -3,7 +3,7 @@ Term 1 (2021-2022).
 
 ## STUDY MATERIALS AND REFERENCES
 ### Required Materials
-1. Introduction to Programming textbook - UIT.
+1. Introduction to Programming textbook - VNUHCM - UIT.
 
 ### References
 1. C++ Programming, 5th Edition, DS Malik, 2011.
